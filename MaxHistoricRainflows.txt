@@ -1,0 +1,24 @@
+Fairview8N: 
+	 Coordinates: 39.45, 111.25
+	 Max 1 Day Precipitation: 3.4 in. on 2/2/2003
+	 Max Potential 5 Day Prec: 17.0 in.
+
+Birdseye: 
+	 Coordinates: 39.52, 111.32
+	 Max 1 Day Precipitation: 1.93 in. on 1/25/1969
+	 Max Potential 5 Day Prec: 9.65 in.
+
+BartholomewPowerhouse: 
+	 Coordinates: 40.10, 111.30
+	 Max 1 Day Precipitation: 2.43 in. on 9/28/1982
+	 Max Potential 5 Day Prec: 12.15 in.
+
+Fairview8N Closest Daily Max to Birdseye: 
+	1.93 in. on 10/20/1979
+
+Birdseye Closest Daily Max to Birdseye: 
+	1.93 in. on 1/25/1969
+
+BartholomewPowerhouse Closest Daily Max to Birdseye: 
+	2.05 in. on 10/16/1980
+
