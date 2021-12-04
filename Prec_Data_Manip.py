@@ -83,4 +83,3 @@ day_col = 'DY'
 year_col = 'YR_PREC'
 
 extract_maxes_to_txt(search_path, primary_site_name, output_txt_path, prec_val_col, month_col, day_col, year_col)
-print(year_col)
